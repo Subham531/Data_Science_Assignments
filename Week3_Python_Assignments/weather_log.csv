@@ -1,0 +1,4 @@
+Timestamp,City,Temperature(C),Humidity(%),WindSpeed(m/s),Analysis
+2025-12-15 12:38:59,kolkata,25.97,44,4.63,Hot (>=25 degrees)
+2025-12-15 12:39:13,Delhi,16.05,82,1.54,Mild (11- 24 degrees)| Humid conditions
+2025-12-15 12:39:34,Guwahati,23.95,53,2.57,Mild (11- 24 degrees)
