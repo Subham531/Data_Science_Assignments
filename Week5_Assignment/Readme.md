@@ -1,4 +1,4 @@
-# MySQL Queries Project
+# MySQL Assignment
 OnelineCompilerLink: (https://onecompiler.com/mysql/448wfec8f)
 
 ## Features
